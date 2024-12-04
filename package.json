@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theresnotime/theresnotime.co.uk.git"
+    "url": "git+https://github.com/theresnotime/sammy.me.uk.git"
   },
   "author": "TheresNoTime",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theresnotime/theresnotime.co.uk/issues"
+    "url": "https://github.com/theresnotime/sammy.me.uk/issues"
   },
-  "homepage": "https://github.com/theresnotime/theresnotime.co.uk#readme",
+  "homepage": "https://github.com/theresnotime/sammy.me.uk#readme",
   "devDependencies": {
     "prettier": "^3.4.1"
   }
