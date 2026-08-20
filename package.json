@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "prettier --config .prettierrc -c public/index.html",
+    "fix": "prettier --config .prettierrc --write public/index.html"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
